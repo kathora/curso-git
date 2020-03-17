@@ -6,7 +6,7 @@ namespace projeto_testegit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Olá Mundo, Bom dia");
         }
     }
 }
